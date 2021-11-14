@@ -1,2 +1,5 @@
 # danieldang4.github.io 
-first website host
+HELLOW WORLD 
+first attempt at hosting a website 
+not much but yeah 
+
